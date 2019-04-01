@@ -4,7 +4,7 @@
 
 ## Team Happy Booth
 
-![image](C:\Users\junta\Documents\GitHub\HealthHack\intro.jpg)
+![image](https://github.com/JuntaoDong/HealthHack2019/blob/master/intro.jpg)
 
 Dataset: [BIDMC Dataset](http://peterhcharlton.github.io/RRest/bidmc_dataset.html)
 
