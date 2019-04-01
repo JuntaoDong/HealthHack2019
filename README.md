@@ -1,8 +1,6 @@
 # School of ai - Health Hackathon
 
-## Respiratory rate algorithms
-
-## Team Happy Booth
+## Respiratory rate algorithms - Team Happy Booth
 
 ![image](https://github.com/JuntaoDong/HealthHack2019/blob/master/intro.jpg)
 
